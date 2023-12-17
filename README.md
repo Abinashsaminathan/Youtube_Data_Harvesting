@@ -81,59 +81,8 @@ Overall, this approach involves building a simple UI with Streamlit, retrieving 
 }
 
 
-Example SQL Tables:
 
 
-
-
-
-Reference :
-
-Orientation Link:
-English Recoding link   
-Tamil Recording Link
-Streamlit Doc:
- https://docs.streamlit.io/library/api-reference
-MongoDB Recordings:
- Topic: MongoDB - Skill Enhancement Session
-Youtube API Reference:
-https://developers.google.com/youtube/v3/getting-started
-
-
-API Data Collection Reference Colab
-
-
-SQL Query Output need to displayed as table in Streamlit Application:
-What are the names of all the videos and their corresponding channels?
-Which channels have the most number of videos, and how many videos do
- they have?
-What are the top 10 most viewed videos and their respective channels?
-How many comments were made on each video, and what are their
- corresponding video names?
-Which videos have the highest number of likes, and what are their 
-corresponding channel names?
-What is the total number of likes and dislikes for each video, and what are 
-their corresponding video names?
-What is the total number of views for each channel, and what are their 
-corresponding channel names?
-What are the names of all the channels that have published videos in the year
- 2022?
-What is the average duration of all videos in each channel, and what are their 
-corresponding channel names?
-Which videos have the highest number of comments, and what are their 
-corresponding channel names?
-Results: 
-This project aims to develop a user-friendly Streamlit application that utilizes the Google API to extract information on a YouTube channel, stores it in a MongoDB database, migrates it to a SQL data warehouse, and enables users to search for channel details and join tables to view data in the Streamlit app.
-Project Evaluation metrics:
-You are supposed to write a code in a modular fashion (in functional blocks)
-Maintainable: It can be maintained, even as your codebase grows.
-Portable: It works the same in every environment (operating system)
-You have to maintain your code on GitHub.(Mandatory)
-You have to keep your GitHub repo public so that anyone can check your code.(Mandatory)
-Proper readme file you have to maintain for any project development(Mandatory)
-You should include basic workflow and execution of the entire project in the readme file on GitHub
-Follow the coding standards: https://www.python.org/dev/peps/pep-0008/
-You need to Create a Demo video of your working model and post in LinkedIn(Mandatory)
 
 
 
